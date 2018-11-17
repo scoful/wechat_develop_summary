@@ -8,9 +8,10 @@
 ### [2. 微信各种号的区别与联系](./微信各种号的区别与联系.md)
 ### [3. 微信发消息能力总结](./微信发消息能力总结.md)
 ### [4. 微信开发中可能遇到的坑](./微信开发中可能遇到的坑.md)
+### [试试](#服务号和小程序的模板消息异同)
 
 
-
+### 服务号和小程序的模板消息异同
 <table class="table table-bordered table-hover table-condensed">
 <thead><tr><th title="Field #1"></th>
 <th title="Field #2">服务号</th>
