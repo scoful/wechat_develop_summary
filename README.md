@@ -12,7 +12,7 @@
 
 
 <table class="table table-bordered table-hover table-condensed">
-<thead><tr><th title="Field #1">FIELD1</th>
+<thead><tr><th title="Field #1"></th>
 <th title="Field #2">服务号</th>
 <th title="Field #3">小程序</th>
 </tr></thead>
